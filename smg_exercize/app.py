@@ -21,7 +21,6 @@ data_encryptor = DataEncryptor(
         cipher = Rot13Cipher()
     )
 
-# TODO: trigger 400 error message
 @api.route('/sentences/<int:sentenceId>')
 class SentenceReader(Resource):
     @api.doc(
