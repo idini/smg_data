@@ -1,0 +1,4 @@
+pytest
+Flask==2.0.2
+flask-restx
+#google-cloud-bigquery
