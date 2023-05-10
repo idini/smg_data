@@ -12,8 +12,6 @@ The api is written using **Flask** and the API documentation is written using **
 
 ## Project Description
 
-Documento senza titolo
-
 The folder structure is
 ```markdown
 smg_exercize
